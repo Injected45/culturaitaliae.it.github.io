@@ -418,7 +418,7 @@ button[type="submit"] i {
 }
 
 .preloader .inner figure img {
-  height: 70px;
+  height: 120px;
 }
 
 .preloader .inner small {
@@ -909,7 +909,7 @@ button[type="submit"] i {
 }
 
 .navbar .logo a img {
-  height: 62px;
+  height: 80px;
 }
 
 .navbar .custom-menu {
